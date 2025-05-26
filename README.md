@@ -8,7 +8,7 @@
 
 Acompanhe o planejamento e a organização do projeto no JIRA:
 
-🔗 [Acessar o Boarddo Projeto no JIRA
+🔗 [[Acessar o Boarddo Projeto no JIRA](https://andressanovachiamaral.atlassian.net/jira/software/projects/PROJETODIO/boards/2)
 
 ---
 
